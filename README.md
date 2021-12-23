@@ -140,3 +140,11 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 (hbnb) ["[User] (98bea5de-9cb0-4d78-8a9d-c4de03521c30) {'updated_at': datetime.datetime(2020, 2, 19, 21, 47, 29, 134362), 'name': 'Fred the Frog', 'age': 9, 'id': '98bea5de-9cb0-4d78-8a9d-c4de03521c30', 'created_at': datetime.datetime(2020, 2, 19, 21, 47, 29, 134343)}"]
 ```
 <br>
+
+<h2> Contributors <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+Ezra Nobrega <a href="mailto:ezra.nobrega@outlook.com"> <img width = '32px' src="https://i.pinimg.com/originals/84/7c/08/847c083cc09040091439e3c05d1fedde.png"/></a>
+Justin Majetich <a href="mailto:justinmajetich@gmail.com"> <img width = '32px' src="https://i.pinimg.com/originals/84/7c/08/847c083cc09040091439e3c05d1fedde.png"/></a> <br>
+Sebastian Garzon <a href="mailto:3380@holbertonschool.com"> <img width = '32px' src="https://i.pinimg.com/originals/84/7c/08/847c083cc09040091439e3c05d1fedde.png"/></a> <br>
+Estefania Ruiz <a href="mailto:3383@holbertonschool.com"> <img width = '32px' src="https://i.pinimg.com/originals/84/7c/08/847c083cc09040091439e3c05d1fedde.png"/></a> <br>
+
+<h2> ¡Thank you! <img src = "https://media.giphy.com/media/CEHtFH3rJ6xdhBUKIT/giphy.gif" width = 32px> </h2>
