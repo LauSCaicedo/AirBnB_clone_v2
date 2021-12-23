@@ -145,6 +145,6 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 Ezra Nobrega <a href="mailto:ezra.nobrega@outlook.com"> <img width = '32px' src="https://i.pinimg.com/originals/84/7c/08/847c083cc09040091439e3c05d1fedde.png"/></a> <br>
 Justin Majetich <a href="mailto:justinmajetich@gmail.com"> <img width = '32px' src="https://i.pinimg.com/originals/84/7c/08/847c083cc09040091439e3c05d1fedde.png"/></a> <br>
 Sebastian Garzon <a href="mailto:3380@holbertonschool.com"> <img width = '32px' src="https://i.pinimg.com/originals/84/7c/08/847c083cc09040091439e3c05d1fedde.png"/></a> <br>
-Estefania Ruiz <a href="mailto:3383@holbertonschool.com"> <img width = '32px' src="https://i.pinimg.com/originals/84/7c/08/847c083cc09040091439e3c05d1fedde.png"/></a> <br>
+Laura Caicedo <a href="mailto:3383@holbertonschool.com"> <img width = '32px' src="https://i.pinimg.com/originals/84/7c/08/847c083cc09040091439e3c05d1fedde.png"/></a> <br>
 
 <h2> ¡Thank you! <img src = "https://media.giphy.com/media/CEHtFH3rJ6xdhBUKIT/giphy.gif" width = 32px> </h2>
