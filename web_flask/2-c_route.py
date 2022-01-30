@@ -32,8 +32,7 @@ def text_h(text):
     """ display “C ” followed by the value
     of the text variable (replace underscore _ symbols with a space )
     """
-    text = text.replace("_", " ")
-    return f"C {text}"
+    return "C {}".format(text.replace("_", " "))
 
 
 if __name__ == "__main__":
