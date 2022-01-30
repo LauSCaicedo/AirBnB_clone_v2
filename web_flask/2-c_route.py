@@ -28,12 +28,12 @@ def second_hello():
 
 
 @app.route('/c/<text>', strict_slashes=False)
-def text(text):
+def text_h(text):
     """ display “C ” followed by the value
     of the text variable (replace underscore _ symbols with a space )
     """
-    stringl = text.replace("_", " ")
-    return f"C {stringl}"
+    text = text.replace("_", " ")
+    return f"C {text}"
 
 
 if __name__ == "__main__":
